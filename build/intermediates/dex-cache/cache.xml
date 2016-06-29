@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\MyStudioWork\Demo_zhy_19_VariousShapeImageView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="096ef13e5f7203d19f4117ddf694fceeedc133a0">
+        <dex dex="I:\MyStudioWork\Demo_zhy_19_VariousShapeImageView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2662e1c10bef592f7044a6faf5d40d7a988c0bd\classes.dex" />
+    </item>
+    <item
+        jar="D:\ProgramFiles\androidsdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="I:\MyStudioWork\Demo_zhy_19_VariousShapeImageView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_59fb276e9b496c30f89ac5f59b5f2e947b20cb76\classes.dex" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\Demo_zhy_19_VariousShapeImageView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="15a26a52ee09fd555b55670af1c6cf49cb0b39df">
+        <dex dex="I:\MyStudioWork\Demo_zhy_19_VariousShapeImageView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c68e1e1917a94b9c9c8bdccb006af203e82075fe\classes.dex" />
+    </item>
+
+</items>
